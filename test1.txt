@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3C6C-2912
+
+ Directory of C:\Users\ARCHANA\Desktop\Myproject
+
+07/14/2020  12:08 PM    <DIR>          .
+07/14/2020  12:08 PM    <DIR>          ..
+07/14/2020  12:08 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  491,951,935,488 bytes free
